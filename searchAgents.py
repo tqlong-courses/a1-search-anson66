@@ -40,6 +40,7 @@ from game import Actions
 import util
 import time
 import search
+import pacman
 
 
 class GoWestAgent(Agent):
